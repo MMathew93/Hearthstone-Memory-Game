@@ -1,0 +1,24 @@
+.banner {
+    width: 876px;
+    background: url('../images/layout/homepage_parchment_scroll.png');
+    margin: 25px auto;
+    display: flex;
+    justify-content: center;
+    height: 196px;
+}
+
+.scoreDisplay {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 5%;
+}
+
+.scores {
+    margin-bottom: 49px;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    text-align: center;
+    width: 33%;
+}

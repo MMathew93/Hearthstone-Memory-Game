@@ -1,0 +1,23 @@
+.header {
+    width: 100%;
+    box-shadow: 0 4px 10px 6px rgba(0,0,0,.7);
+}
+
+.MuiPaper-root {
+    background: url('../images/layout/wood_middle_repeat.png') !important;
+    background-repeat: repeat-x !important;
+}
+
+.title {
+    flex-Grow: 1;
+    font-family: 'belweboldy' !important;
+    color: #fcd144 !important;
+    font-size: 2rem !important;
+}
+
+.infoButton {
+    font-family: 'belweboldy' !important;
+    background-color: rgb(117, 22, 123) !important;
+    color: #fcd144 !important;
+    width: 40px;
+}

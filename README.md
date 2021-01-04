@@ -1,3 +1,18 @@
+# Hearthstone memory game
+
+A fun project to practice React.js with. Purpose of the game is to click heroes and try not to click a hero you have already previously clicked.
+Nothing more specific to it, I think a refactor may be needed as I am sure there is a much cleaner way to sort out the modules and drill down state.
+
+## Tech/Framework Used
+
+React
+Javascript
+Material UI
+
+## HOSTED DEMO
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
